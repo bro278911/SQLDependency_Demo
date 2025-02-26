@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\User\\Desktop\\預存程序測試\\SQLDependency_Demo\\SQLDependency_Demo\\SQLDependency_Demo.csproj": {}
+    "D:\\Users\\User\\Desktop\\離職人員交接文件\\工具包\\123\\SQLDependency_Demo\\SQLDependency_Demo\\SQLDependency_Demo.csproj": {}
   },
   "projects": {
-    "D:\\Users\\User\\Desktop\\預存程序測試\\SQLDependency_Demo\\SQLDependency_Demo\\SQLDependency_Demo.csproj": {
+    "D:\\Users\\User\\Desktop\\離職人員交接文件\\工具包\\123\\SQLDependency_Demo\\SQLDependency_Demo\\SQLDependency_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Desktop\\預存程序測試\\SQLDependency_Demo\\SQLDependency_Demo\\SQLDependency_Demo.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Desktop\\離職人員交接文件\\工具包\\123\\SQLDependency_Demo\\SQLDependency_Demo\\SQLDependency_Demo.csproj",
         "projectName": "SQLDependency_Demo",
-        "projectPath": "D:\\Users\\User\\Desktop\\預存程序測試\\SQLDependency_Demo\\SQLDependency_Demo\\SQLDependency_Demo.csproj",
+        "projectPath": "D:\\Users\\User\\Desktop\\離職人員交接文件\\工具包\\123\\SQLDependency_Demo\\SQLDependency_Demo\\SQLDependency_Demo.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Desktop\\預存程序測試\\SQLDependency_Demo\\SQLDependency_Demo\\obj\\",
+        "outputPath": "D:\\Users\\User\\Desktop\\離職人員交接文件\\工具包\\123\\SQLDependency_Demo\\SQLDependency_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "SqlTableDependency": {
               "target": "Package",
               "version": "[8.5.8, )"

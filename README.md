@@ -8,3 +8,4 @@
 ## 使用 NuGet 安裝套件
 1.SqlTableDependency (version = 8.5.8)<br />
 2.System.Data.SqlClient(舊版本可能會有弱點) (version = 4.9.0)
+3.Microsoft.Data.SqlClient(version = 6.0.1)

@@ -1,5 +1,5 @@
 using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using SQLDependency_Demo.Models;
 using TableDependency.SqlClient;
 using TableDependency.SqlClient.Base.EventArgs;

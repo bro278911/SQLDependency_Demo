@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQLDependency_Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+844409c321fb0f1f29191f6c2751a83b4fd931aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQLDependency_Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQLDependency_Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

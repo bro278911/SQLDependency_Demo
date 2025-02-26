@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\User\\Desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\SQLDependency_Demo\\",
+  "WorkspaceRootPath": "D:\\Users\\User\\Desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\SQLDependency_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|d:\\users\\user\\desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\sqldependency_demo\\sqldependency_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|d:\\users\\user\\desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\sqldependency_demo\\sqldependency_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|solutionrelative:sqldependency_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|d:\\users\\user\\desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\sqldependency_demo\\sqldependency_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|D:\\Users\\User\\Desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\SQLDependency_Demo\\sqldependency_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|solutionrelative:sqldependency_demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|d:\\users\\user\\desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\sqldependency_demo\\sqldependency_demo\\models\\chargingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|d:\\users\\user\\desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\sqldependency_demo\\sqldependency_demo\\models\\chargingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D032C979-3837-4990-A430-404C2CF7EA0B}|SQLDependency_Demo\\SQLDependency_Demo.csproj|solutionrelative:sqldependency_demo\\models\\chargingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ChargingData.cs",
-              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\SQLDependency_Demo\\SQLDependency_Demo\\Models\\ChargingData.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\SQLDependency_Demo\\SQLDependency_Demo\\Models\\ChargingData.cs",
               "RelativeDocumentMoniker": "SQLDependency_Demo\\Models\\ChargingData.cs",
-              "ToolTip": "D:\\Users\\User\\Desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\SQLDependency_Demo\\SQLDependency_Demo\\Models\\ChargingData.cs",
+              "ToolTip": "D:\\Users\\User\\Desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\SQLDependency_Demo\\SQLDependency_Demo\\Models\\ChargingData.cs",
               "RelativeToolTip": "SQLDependency_Demo\\Models\\ChargingData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,11 +57,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\SQLDependency_Demo\\SQLDependency_Demo\\Form1.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\SQLDependency_Demo\\SQLDependency_Demo\\Form1.cs",
               "RelativeDocumentMoniker": "SQLDependency_Demo\\Form1.cs",
-              "ToolTip": "D:\\Users\\User\\Desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\SQLDependency_Demo\\SQLDependency_Demo\\Form1.cs",
+              "ToolTip": "D:\\Users\\User\\Desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\SQLDependency_Demo\\SQLDependency_Demo\\Form1.cs",
               "RelativeToolTip": "SQLDependency_Demo\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T02:09:19.274Z",
               "EditorCaption": ""
@@ -70,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\SQLDependency_Demo\\SQLDependency_Demo\\Form1.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\SQLDependency_Demo\\SQLDependency_Demo\\Form1.cs",
               "RelativeDocumentMoniker": "SQLDependency_Demo\\Form1.cs",
-              "ToolTip": "D:\\Users\\User\\Desktop\\\u9810\u5B58\u7A0B\u5E8F\u6E2C\u8A66\\SQLDependency_Demo\\SQLDependency_Demo\\Form1.cs [\u8A2D\u8A08]",
+              "ToolTip": "D:\\Users\\User\\Desktop\\\u96E2\u8077\u4EBA\u54E1\u4EA4\u63A5\u6587\u4EF6\\\u5DE5\u5177\u5305\\123\\SQLDependency_Demo\\SQLDependency_Demo\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "SQLDependency_Demo\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T02:08:22.991Z",
